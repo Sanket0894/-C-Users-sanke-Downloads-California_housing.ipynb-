@@ -51,4 +51,12 @@ I performed data analysis on various aspects, including:
 - Exploring the distribution of housing features
 - Visualizing relationships between median income and house values
 - Categorizing house sizes based on total bedrooms
-- Analyzing the distribution of houses based on their proximity to the ocean
+- Analyzing the distribution of houses based on their proximity to the ocean.
+### Contributing
+I welcome contributions or any suggestions to enhance the project. Here's how you can contribute:
+
+- Fork the repository.
+ Create a new branch for your feature: git checkout -b feature-name
+- Commit your changes: git commit -m 'Add some feature'
+- Push to the branch: git push origin feature-name
+- Create a pull request.
