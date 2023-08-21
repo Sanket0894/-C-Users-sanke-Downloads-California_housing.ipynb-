@@ -53,7 +53,8 @@ I performed data analysis on various aspects, including:
 - Categorizing house sizes based on total bedrooms
 - Analyzing the distribution of houses based on their proximity to the ocean.
 ### Contributing
-I welcome contributions or any suggestions to enhance the project. Here's how you can contribute:
+ I welcome contributions or any suggestions to enhance the project. Here's how you can 
+ contribute:
 
 - Fork the repository.
  Create a new branch for your feature: git checkout -b feature-name
