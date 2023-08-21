@@ -11,7 +11,6 @@ Analyze the California housing dataset to gain insights into the various feature
 - [Usage](#usage)
 - [Data Analysis](#data-analysis)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
