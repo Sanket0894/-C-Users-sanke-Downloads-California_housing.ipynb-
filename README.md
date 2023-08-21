@@ -44,4 +44,11 @@ Ensure you have the following software installed:
    git clone https://github.com/Sanket0894/california-housing-analysis.git
    cd california-housing-analysis
 ### Usage
-1.Run the Jupyter Notebook file Housing_Analysis.ipynb to see the step-by-step analysis and visualizations.
+1.Run the Jupyter Notebook file California_housing.ipynb to see the step-by-step analysis and visualizations.
+### Data Analysis
+I performed data analysis on various aspects, including:
+
+- Exploring the distribution of housing features
+- Visualizing relationships between median income and house values
+- Categorizing house sizes based on total bedrooms
+- Analyzing the distribution of houses based on their proximity to the ocean
