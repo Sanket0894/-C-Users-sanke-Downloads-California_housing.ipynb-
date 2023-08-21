@@ -43,3 +43,5 @@ Ensure you have the following software installed:
    ```bash
    git clone https://github.com/Sanket0894/california-housing-analysis.git
    cd california-housing-analysis
+##Usage
+Run the Jupyter Notebook file Housing_Analysis.ipynb to see the step-by-step analysis and visualizations.
